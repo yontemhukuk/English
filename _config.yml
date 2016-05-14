@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: avukatBaranDogan@gmail.com
 copyright_name: Baran Dogan Law Office
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: ""
+baseurl: "/en"
 url: "https://barandogan.av.tr"
 twitter_username: baran_dogan
 facebook_username:  avukatBaranDogan
