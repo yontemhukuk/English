@@ -1,0 +1,19 @@
+# Site settings
+permalink: /:title.html
+title: Baran Dogan Law Office
+header-img: img/home-bg.jpg
+email: avukatBaranDogan@gmail.com
+copyright_name: Baran Dogan Law Office
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: "/en"
+url: "https://barandogan.av.tr"
+twitter_username: baran_dogan
+facebook_username:  avukatBaranDogan
+email_username:  avukatBaranDogan@gmail.com
+# Build settings
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
