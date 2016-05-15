@@ -1,0 +1,38 @@
+<div class="row">
+	<div class="col-lg-3 col-lg-offset-2">
+		<div class="info-section">
+			Contact Info
+		</div>
+		<div class="address text-muted">
+			M.Fevzi Çakmak cd. 1.Sok No:9 Daire:6 Şirinevler Meydanı Şirinevler/Bahçelievler/ İstanbul
+			TÜRKİYE
+		</div>
+		<div class="email text-muted">
+			avukatbarandogan@gmail.com
+		</div>
+		<hr>
+	</div>
+	<div class="col-lg-6 col-lg-offset-1 ">
+		<div class="info-section">
+			Recent Articles
+		</div>
+		<div class="articles-in-footer">
+			{% for post in site.posts %}
+			<div class="post-preview">
+			    <a href="{{ post.url | prepend: site.baseurl }}">
+			        <h5>
+						 {{ post.title }}
+			        </h5>
+			        {% if post.subtitle %}
+			        <h6 class="post-subtitle">
+			            {{ post.subtitle }}
+			        </h6>
+			        {% endif %}
+			    </a>
+			    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+			</div>
+			<hr>
+			{% endfor %}
+		</div>
+	</div>
+</div>

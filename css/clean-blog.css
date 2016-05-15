@@ -401,3 +401,29 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+.info-section{
+	border-bottom: 1px black solid;
+}
+.address {
+	font-size: 14px;
+	line-height: 18px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.email {
+	font-size: 14px;
+	line-height: 18px;
+}
+.articles-in-footer{
+	height: 125px;
+	overflow: scroll;
+
+}
+.home-desc {
+	font-size: 20px;
+	line-height: 40px;
+}
+.about{
+	font-size: 20px;
+	line-height: 40px;
+}
