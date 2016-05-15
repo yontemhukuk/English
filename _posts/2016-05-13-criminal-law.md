@@ -1,6 +1,8 @@
 ---
 layout:  post
 title:  "Davasız Yargılama Olmaz İlkesi"
+description: "Description of the article"
+keywords: "Google keywords"
 subtitle: "Ceza avukatlarına ve ceza avukatı olmak isteyen stajyer avukatlara yönelik İstanbul'da verdiğimiz mesleki seminerin videosudur."
 author: "Lawyer Baran Dogan"
 ---
