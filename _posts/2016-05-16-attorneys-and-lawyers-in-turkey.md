@@ -17,7 +17,7 @@ A serious crime **attorney** is not covered under a field of attorneyship define
 
 ## Serious Crime Attorney/Lawyer and Defense 
 
-The action of defensing starts upon when an individual is faced with incrimination. Main function of a *criminal defense attorney* is to defense the individuals faced with incrimination. The action of defensing includes introducing a material fact accurately and serves as an important part of criminal procedures by safeguarding the rights of defense of individuals.  
+The action of defensing starts upon when an individual is faced with incrimination. Main function of a [**criminal defense attorney**](https://barandogan.av.tr/en/attorneys-at-law-or-lawyers.html) is to defense the individuals faced with incrimination. The action of defensing includes introducing a material fact accurately and serves as an important part of criminal procedures by safeguarding the rights of defense of individuals.  
 
 An indictment is the last investigation document including all allegations about the individual on trial in a well-organized manner. When the court accepts the indictment submitted by the prosecutors, the proceedings start. The attorney should discuss the outlines of the indictment and explain the reasons for his objections to the indictment with his defense during the proceedings. 
 
@@ -35,9 +35,10 @@ Self-defense should also be taken into account by the attorney in case of a murd
 
 ### Aggravated Fraud and Serious Crime Attorney 
 
-Aggravated fraud is one of the offenses on property which may be committed quite differently. If the serious crime attorney deals with a file on aggravated fraud, he should examine whether this offense necessitates technical knowledge other than law knowledge. Some offenses of aggravated fraud may require technical knowledge along with law knowledge. In such situations, the defense attorney of the case should consult to an expert. For instance, in case of commission of offense of fraud (Article 158/1-f of [**Turkey's Criminal Code**])(https://www.unodc.org/res/cld/document/tur/2004/criminal_code_law_no__5237_html/Turkey_Criminal_Code_Law_No._5237_2004.pdf), information system may be reviewed to submit evidence. In such a case, the criminal defense attorney should review the case with the help of an expert on information system. 
+Aggravated fraud is one of the offenses on property which may be committed quite differently. If the serious crime attorney deals with a file on aggravated fraud, he should examine whether this offense necessitates technical knowledge other than law knowledge. Some offenses of aggravated fraud may require technical knowledge along with law knowledge. In such situations, the defense attorney of the case should consult to an expert. For instance, in case of commission of offense of fraud (Article 158/1-f of [**Turkey's Criminal Code**](https://www.unodc.org/res/cld/document/tur/2004/criminal_code_law_no__5237_html/Turkey_Criminal_Code_Law_No._5237_2004.pdf)), information system may be reviewed to submit evidence. In such a case, the criminal defense attorney should review the case with the help of an expert on information system. 
 
-In case of execution of act of swindling with the intention to collect a debt receivable based on a legal relation, abatement shall be applied for the offender (Article 159 of [**Turkey's Criminal Code**])(https://www.unodc.org/res/cld/document/tur/2004/criminal_code_law_no__5237_html/Turkey_Criminal_Code_Law_No._5237_2004.pdf). Defending attorney should ensure that the evidence will be taken into account if it is likely to apply this article for the offender. 
+In case of execution of act of swindling with the intention to collect a debt receivable based on a legal relation, abatement shall be applied for the offender (Article 159 of [**Turkey's Criminal Code**](https://www.unodc.org/res/cld/document/tur/2004/criminal_code_law_no__5237_html/Turkey_Criminal_Code_Law_No._5237_2004.pdf)
+). Defending attorney should ensure that the evidence will be taken into account if it is likely to apply this article for the offender. 
 
 Aggravated fraud is one of the economic offenses abated if the damages stemming from this offense have been recovered. Criminal defense attorney should check whether the rate of abatement complies with the law if the damages stemming from the offense have been met. 
 
@@ -69,7 +70,7 @@ Collusive tendering is an offense committed when someone conspires to rig bids o
 
 Collusive tendering is an offense committed in relation to the law. In other words, the offense is committed when one of the restricted actions listed in its legal definition is performed. Similar actions not included in the definition of this offense cannot be counted as reasons of this offense. 
 
-A serious crime attorney should consider all actions concluded in collusive tendering one by one and discuss on trial whether the related act is under the scope of the actions listed in Article 235 of [**Turkey's Criminal Code**])(https://www.unodc.org/res/cld/document/tur/2004/criminal_code_law_no__5237_html/Turkey_Criminal_Code_Law_No._5237_2004.pdf).
+A serious crime attorney should consider all actions concluded in collusive tendering one by one and discuss on trial whether the related act is under the scope of the actions listed in Article 235 of [**Turkey's Criminal Code**](https://www.unodc.org/res/cld/document/tur/2004/criminal_code_law_no__5237_html/Turkey_Criminal_Code_Law_No._5237_2004.pdf)).
 
 ### Cyber -Crimes and Serious Crime Attorney/Lawyer 
 
