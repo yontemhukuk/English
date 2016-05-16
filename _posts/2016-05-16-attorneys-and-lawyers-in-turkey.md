@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Serious Crime Attorney/Lawyer"
-description: "Serious crime attorneys are a type of criminal defense lawyer. Any lawyer who following criminal cases can be called as such. Because, there is no spelization in Turkey's law system. The most of lawyers/attorneys in Turkey work in Istanbul city. "
+description: "Serious crime attorneys are a type of criminal defense lawyer. Any lawyer who following criminal cases can be called as such. Because, there is no specialization in Turkey's law system. The most of lawyers/attorneys in Turkey work in Istanbul city. "
 keywords: "lawyer, solicitor, attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law office, law firm"
 subtitle: "Who is a serious crime attorney/lawyer? Lawyers and Criminal Defense Attorney, Murder and Serious Crime Attorney/Lawyer, Aggravated Fraud and Serious Crime Attorney, Collusive Tendering and Serious Crime Attorney/Lawyer, Cyber -Crimes and Serious Crime Attorney, Criminal Defense Attorneys in Turkey, Serious Crimes Attorney in Istanbul"
 author: "Lawyer Baran Dogan"
