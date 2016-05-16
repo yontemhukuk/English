@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Law Offices and Law Firms in Istanbul"
-description: "lawyer, solicitor, attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law offices, law firms, law firm in turkey, law office in istanbul"
+description: "In Turkey the most law firms, attorneys or lawyers are located in Istanbul. Law offices work on every range of law. Because, there is no specialization in Turkey's law system. "
 keywords: "lawyer, solicitor, attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law office, law firm"
 subtitle: "What is a Law Office / Law Firm in Turkey, Law Offices and Law Firms in Istanbul, Law Offices and Confidentiality Obligation for Lawyers/Attorneys, Law Firms and Independence of the Lawyer/the Attorney, Criminal Law and Law Offices, Family Law, Attorneys and Law Firms,  Real Estate Law, Compensation Law and Law Offices"
 author: "Lawyer Baran Dogan"
