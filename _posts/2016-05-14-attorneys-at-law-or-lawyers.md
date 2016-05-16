@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:  "Criminal Defense Attorney (Lawyer)"
+title:  "Criminal Defense Attorney/Lawyer"
 description: "lawyer, solicitor, attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law office, law firm"
 keywords: "lawyer, solicitor, attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law office, law firm"
 subtitle: "Who is Criminal Defense Attorney or Lawyer? Lawyers and Criminal Defense Attorney, Criminal Defense Attorney During Investigation and Prosecution, Criminal Defense Attorneys in Turkey, Who Is Serious Crimes Attorney or Lawyer, Being a Serious Crimes Attorney in Istanbul"
