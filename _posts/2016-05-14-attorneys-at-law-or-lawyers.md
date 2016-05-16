@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:  "Criminal Defense Attorney/Lawyer"
-description: "lawyer, solicitor, attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law office, law firm"
+description: "Lawyers or attorneys have the same meaning in the Turkey's law system. In Turkey, criminal defense attorneys or lawyers mostly work in Istanbul city. Law offices/firms can represent their client through all process if they are  under criminal suspicion or the victim of a crime. "
 keywords: "lawyer, solicitor, attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law office, law firm"
 subtitle: "Who is Criminal Defense Attorney or Lawyer? Lawyers and Criminal Defense Attorney, Criminal Defense Attorney During Investigation and Prosecution, Criminal Defense Attorneys in Turkey, Who Is Serious Crimes Attorney or Lawyer, Being a Serious Crimes Attorney in Istanbul"
 author: "Lawyer Baran Dogan"
