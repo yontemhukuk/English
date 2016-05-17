@@ -51,7 +51,7 @@ A lawyer should guarantee his professional activity by an insurance proportional
 
 ### Branches such as Criminal Defense Attorney, Divorce Attorney, Compensation Attorney etc. 
 
-The Code of Conduct for Lawyers in the European Union does not mention about concrete criteria on the conducts in professional fields such as criminal defense attorneys, divorce attorneys etc. since some EU member states have criminal defense attorneys while others do not separate branches for lawyers. The Code of Conduct for Lawyers in the European Union prefers to explain the profession of attorneyship on the basis of its defense function rather than using fields such as criminal defense attorney, divorce attorney, real estate attorney and compensation attorney etc. The function of defensing, however, is a fundamental role adopted by all lawyers engaged in whether criminal law or compensation law. 
+The Code of Conduct for Lawyers in the European Union does not mention about concrete criteria on the conducts in professional fields such as [**criminal defense attorneys**](https://barandogan.av.tr/en/attorneys-at-law-or-lawyers.html), divorce attorneys etc. since some EU member states have criminal defense attorneys while others do not separate branches for lawyers. The Code of Conduct for Lawyers in the European Union prefers to explain the profession of attorneyship on the basis of its defense function rather than using fields such as criminal defense attorney, divorce attorney, real estate attorney and compensation attorney etc. The function of defensing, however, is a fundamental role adopted by all lawyers engaged in whether criminal law or compensation law. 
 
 ### Lawyer/Attorney and Independence 
 
