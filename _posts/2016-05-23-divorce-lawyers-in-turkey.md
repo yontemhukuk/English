@@ -22,11 +22,17 @@ There is a meticulous preparation period before each case. Divorce lawyer, like 
 *Divorce lawyer* considers the facts and looks for whether there are enough grounds for the divorce. By listening to the incidents told, divorce lawyer tries to find out whether the grounds stated herein below exist for divorce: 
 
 •	Adultery (Civil Code of Turkey Art.161), 
+
 •	Deliberate attempt to kill, maltreatment or severe humiliation (Civil Code of Turkey Art.162), 
+
 •	Committing a humiliating crime (Civil Code of Turkey Art. 163), 
+
 •	Leading a dishonourable life (Civil Code of Turkey Art. 163), 
+
 •	Desertion without a solid reason (Civil Code of Turkey 164),
+
 •	Mental disease (Civil Code of Turkey 165),
+
 •	Irretrievable breakdown of marriage (Civil Code of Turkey Art. 166).
 
 Ascertaining the divorce ground correctly is of vital importance. This is due to the fact that the judge will examine the case in accordance with this. Thus, trial preparation should absolutely be carried out with the assistance of a divorce lawyer. 
@@ -36,8 +42,11 @@ Ascertaining the divorce ground correctly is of vital importance. This is due to
 After ascertaining the exact grounds for divorce, divorce lawyer will draft the petition accordingly. Particularly the parties may have demands other than divorce. Divorce lawyer should clarify the demands of his client through the following questions: 
 
 •	Does the client have the right of custody of the child? 
+
 •	Does the client ask for alimony? 
+
 •	Is there a demand for division of assets in accordance with the new Civil Code of Turkey?
+
 •	Does the client demand for the compensation of material and moral damages? 
 
 ### Filing A Divorce Case and Divorce Lawyer
