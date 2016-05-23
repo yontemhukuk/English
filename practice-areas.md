@@ -52,9 +52,9 @@ header-img: "img/about-bg.jpg"
 
 * Representing victims or plaintiffs.
 
-### CIVIL LAW
+### CIVIL LAW - FAMILY LAW- DIVORCE LAWYER
 
-* Lawsuits on division of property in case of divorce, participation in relation to the division of property and * claims for contributions;
+* Lawsuits on division of property in case of divorce, participation in relation to the division of property and claims for contributions;
 
 * Lawsuits for divorce and all alimony cases, claims for pecuniary and non-pecuniary damages;
 
