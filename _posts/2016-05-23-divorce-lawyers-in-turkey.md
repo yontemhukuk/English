@@ -13,7 +13,7 @@ author: "Lawyer Baran Dogan"
 
 ## Who is a Divorce Lawyer? 
 
-**Divorce lawyer** is a colloquial title given to the lawyers who is in charge of divorce cases. Divorce is a challenging and miserable process for the married couples. Receiving a professional legal assistance during this process will help to overcome such a challenging period. In fact, in our judicial system, there is not any field of lawyer under the title “divorce lawyer”. We will also use this concept since the lawyers of the defendant and the complainant during the divorce cases are colloquially called as such. 
+**Divorce lawyer** is a colloquial title given to the lawyers who is in charge of divorce cases. Divorce is a challenging and miserable process for the married couples. Receiving a professional legal assistance during this process will help to overcome such a challenging period. In fact, in Turkey's judicial system, there is not any field of lawyer under the title “divorce lawyer”. We will also use this concept since the lawyers of the defendant and the complainant during the divorce cases are colloquially called as such. 
 
 There is a meticulous preparation period before each case. Divorce lawyer, like an observer, should discover the incidents which took place during the marriage. Accordingly, divorce lawyer decides on the facts which will provide a basis for the divorce and gets prepared for the case. This is due to the fact that each divorce must be based on a ground according to our judicial system. Unjustified divorce cases are dismissed. 
 
