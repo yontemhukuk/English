@@ -3,7 +3,7 @@ layout:  post
 title:  "Real Estate Attorney/Lawyer"
 description: "Real estate lawyers/attorneys have the important part of Turkey's law system. In accordance with the Turkey's law, any lawyer/attorney can practice as a real estate lawyer.   Most of the real estate lawyers/attorneys practice in Istanbul city"
 keywords: "real estate lawyer, solicitor, real estate attorney, lawyers in istanbul, lawyers in turkey, attorney at law in istanbul, attorney in turkey, law office, law firm"
-subtitle: "What Does Mean Being Real Estate Lawyer/Attorney in Turkey? Real estate case: Possessory Actions, Partition Cases, Annulment of Title Deeds Cases, Real Estate Attorney/Lawyer in Istanbul"
+subtitle: "What Does Mean Being Real Estate Lawyer/Attorney in Turkey? Real Estate Cases: Possessory Actions, Partition Cases, Annulment of Title Deeds Cases, Real Estate Attorney/Lawyer in Istanbul"
 author: "Lawyer Baran Dogan"
 ---
 
